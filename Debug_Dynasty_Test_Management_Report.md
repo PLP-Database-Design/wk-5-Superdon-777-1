@@ -40,7 +40,7 @@ In Scope:
   Tools:
 - GitHub Repository: For version control of the report.
 - GitHub Issues: For defect tracking (mandatory).
-- Jira: For task management (Kanban board). - C:\Users\julie\Downloads\Personal\software testing\5-group\Debug-dynasty\jira_task_tracking_tool.png
+- Jira: For task management (Kanban board). -(https://github.com/PLP-Database-Design/wk-5-Superdon-777-1/blob/main/jira_task_tracking_tool.png)
 - Whatsapp for communication
 - Markdown Editor: (e.g., VS Code) for report writing.
 - Screen Capture Tool: (e.g., Snipping Tool, ShareX) for defect evidence.
@@ -96,7 +96,7 @@ In Scope:
 
 git
 Below is the visual summary of risk distribution created in Excel:
---Risk Coverage Chart:(https://github.com/juliesuarez/Debug-dynasty/blob/main/risk_chart.jpg)
+--Risk Coverage Chart:(https://github.com/PLP-Database-Design/wk-5-Superdon-777-1/blob/main/risk_chart.jpg)
 
 **Test Design & Execution**
 
